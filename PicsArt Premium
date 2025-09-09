@@ -1,14 +1,9 @@
 {
-  "versionCode": 202515697,
-  "versionName": "3.7.1070.202515697",
-  "Msg": "New update is available, to continue in our app please update it.
-
-What's new:
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
-
-Thanks for using",
-  "downloadLink": "https://t.me/saminxmodz"
-  }
+    "Title": "Update Available⚡",
+    "versionCode": "387",
+    "versionName": "7.4.3",
+    "updateSize": "42 MB",
+    "releaseDate": "Sep 7, 2025",
+    "Msg": "🎉 What's New:\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
+    "downloadLink": "https://t.me/+ni1gUgpaqEExOWY1"
+}
